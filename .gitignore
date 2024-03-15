@@ -1,1 +1,3 @@
 *.gguf
+Pipfile
+Pipfile.lock
